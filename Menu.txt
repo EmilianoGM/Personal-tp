@@ -1,3 +1,7 @@
+Hacerlo en una funcion ¿?
+Si la funcion recive un determinado tipo de dato. primero declaro esa variable con ese dato y el return con esa variable.
+
+
 int opcion;
 
 do{
