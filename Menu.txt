@@ -1,0 +1,26 @@
+int opcion;
+
+do{
+ opciones
+ salir
+ scanf("%d", opcion);
+
+ 
+system("pause");--> pausa el programa
+system("cls");  --> limpia la pantalla
+
+} while(opcion != 5)
+
+switch(opcion) {
+ case 1:
+   printf("Estoy sumando");
+   break;
+ case 2:
+   printf("Estoy restando");
+   break;
+ case 5:
+   opcion = 5;
+   break;
+ default:
+   printf("No ingreso una opcion correcta.");
+}
