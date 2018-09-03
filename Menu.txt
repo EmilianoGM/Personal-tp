@@ -1,6 +1,10 @@
 Hacerlo en una funcion ¿?
 Si la funcion recive un determinado tipo de dato. primero declaro esa variable con ese dato y el return con esa variable.
+Menu tiene que ser como el pedido en cuanto a cantidad y que hacen las opciones.
+No hay submenu, Es un solo menu y la opcion 3 realiza todos los calculos juntos y la opcion 4 los muestra.
+Puede recivir floats.
 
+Es solo un ejemplo de un menu:
 
 int opcion;
 
