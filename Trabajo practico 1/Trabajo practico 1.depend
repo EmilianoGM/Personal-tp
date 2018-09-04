@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536020869 source:c:\users\liliana\desktop\tecnicatura\trabajo practico 1\biblioteca.c
+	<stdio.h>
+	"Biblioteca.h"
+
+1536020869 c:\users\liliana\desktop\tecnicatura\trabajo practico 1\biblioteca.h
+
+1536020316 source:c:\users\liliana\desktop\tecnicatura\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
